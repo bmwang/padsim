@@ -7,6 +7,7 @@
 	<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 	<script src="http://code.jquery.com/ui/1.11.3/jquery-ui.js"></script>
 	<link rel="stylesheet" type="text/css" href="pad.css">
+	<link rel="stylesheet" type="text/css" href="pad.mobile.css">
 	<link rel="shortcut icon" href="http://mtg.dawnglare.com/favicon.ico?v1" />
 	<script src="pad.js"></script>
 </head>
